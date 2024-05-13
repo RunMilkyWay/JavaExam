@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HTMLFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginTop="90dp"
+        android:layout_marginStart="20dp"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla at volutpat diam ut venenatis tellus. Mauris rhoncus aenean vel elit scelerisque mauris. Eu ultrices vitae auctor eu augue ut lectus. Nunc sed id semper risus. Nunc aliquet bibendum enim facilisis gravida. Elementum pulvinar etiam non quam lacus suspendisse faucibus. Egestas maecenas pharetra convallis posuere. Mauris a diam maecenas sed enim ut. Volutpat est velit egestas dui id." />
+
+    <TextView
+        android:id="@+id/external"
+        android:layout_gravity="center"
+        android:layout_marginTop="140dp"
+        android:textSize="35dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#0000FF"
+        android:text="https://google.com" />
+
+</FrameLayout>
